@@ -1,6 +1,7 @@
 {
-	"localeVersion": "0.0.0",
-	"availableLocales": [
-		"en_us"
-	]
+	"localeVersion": "v0.0.0",
+	"availableLocales": {
+		"en_us": "English (United States)",
+		"ja_jp": "日本語（日本）"
+	}
 }
