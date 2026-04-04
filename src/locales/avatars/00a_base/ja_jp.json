@@ -1,4 +1,6 @@
 {
-	"character.firstName": "基本",
-	"character.lastName": "アバター"
+	"character.first_name": "基本",
+	"character.last_name": "アバター",
+	"character.club_name": "部活名",
+	"exSkill.primary_name": "Exスキル"
 }

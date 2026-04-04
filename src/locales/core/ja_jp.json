@@ -1,3 +1,5 @@
 {
-	"message.sample": "サンプルメッセージ"
+	"message.ex_skill.unavailable": "今は再生できません。",
+	"message.ex_skill.unavailable_firstperson": "一人称視点では再生できません。",
+	"message.ex_skill.unavailable_secondary": "この生徒さんはサブExスキルを持っていません。"
 }
