@@ -6,6 +6,7 @@
 	"action_wheel.main_page.change_display_name.sub_option": "部活名を表示：",
 	"action_wheel.main_page.toggle_armor_visibility.title": "防具を表示：",
 	"action_wheel.main_page.open_avatar_config.title": "アバター設定を開く...",
+	"action_wheel.config_page.custom_vehicle_replacement.title": "乗り物のモデルを置き換え：",
 	"action_wheel.gui.bubble_guide.title": "§0吹き出しエモートガイド",
 	"action_wheel.gui.ex_skill_guide.title": "§0Exスキルガイド",
 	"action_wheel.gui.ex_skill_guide.key": "\"%s\"キーで再生",
@@ -23,5 +24,6 @@
 	"message.action_wheel.change_alt_costume.unavailable": "この生徒さんはバリエーションコスチュームを持っていません。",
 	"message.action_wheel.change_display_name.done": "表示名を§b%s§rに変更しました。",
 	"message.action_wheel.change_display_name.club_name_on": "部活名を表示しました。",
-	"message.action_wheel.change_display_name.club_name_off": "部活名を非表示にしました。"
+	"message.action_wheel.change_display_name.club_name_off": "部活名を非表示にしました。",
+	"message.action_wheel_config.custom_vehicle_replacement.unavailable": "この生徒さんは独自の乗り物を持っていません。"
 }

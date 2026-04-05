@@ -6,6 +6,7 @@
 	"action_wheel.main_page.change_display_name.sub_option": "Display Club Name: ",
 	"action_wheel.main_page.toggle_armor_visibility.title": "Show Armor: ",
 	"action_wheel.main_page.open_avatar_config.title": "Open Avatar Config...",
+	"action_wheel.config_page.custom_vehicle_replacement.title": "Replace vehicle model: ",
 	"action_wheel.gui.bubble_guide.title": "§0Bubble emote guide",
 	"action_wheel.gui.ex_skill_guide.title": "§0Ex skill guide",
 	"action_wheel.gui.ex_skill_guide.key": "Press \"%s\" key to play",
@@ -23,5 +24,6 @@
 	"message.action_wheel.change_alt_costume.unavailable": "This student does not have an alternative costume.",
 	"message.action_wheel.change_display_name.done": "Changed your display name to §b%s§r.",
 	"message.action_wheel.change_display_name.club_name_on": "Displaying club name.",
-	"message.action_wheel.change_display_name.club_name_off": "Not displaying club name."
+	"message.action_wheel.change_display_name.club_name_off": "Not displaying club name.",
+	"message.action_wheel_config.custom_vehicle_replacement.unavailable": "This student does not have a custom vehicle."
 }
