@@ -4,6 +4,7 @@
 	"action_wheel.main_page.change_alt_costume.title": "バリエーションコスチュームに変更：",
 	"action_wheel.main_page.change_display_name.title": "表示名を変更：",
 	"action_wheel.main_page.change_display_name.sub_option": "部活名を表示：",
+	"action_wheel.main_page.toggle_armor_visibility.title": "防具を表示：",
 	"message.ex_skill.unavailable": "今は再生できません。",
 	"message.ex_skill.unavailable_firstperson": "一人称視点では再生できません。",
 	"message.ex_skill.unavailable_secondary": "この生徒さんはサブExスキルを持っていません。",

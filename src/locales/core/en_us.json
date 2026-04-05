@@ -9,6 +9,7 @@
 	"action_wheel.main_page.change_alt_costume.title": "Change to Alternative Costume: ",
 	"action_wheel.main_page.change_display_name.title": "Change Display Name: ",
 	"action_wheel.main_page.change_display_name.sub_option": "Display Club Name: ",
+	"action_wheel.main_page.toggle_armor_visibility.title": "Show Armor: ",
 	"message.ex_skill.unavailable": "You cannot play ex skill animation now.",
 	"message.ex_skill.unavailable_firstperson": "You cannot play ex skill animation in first person perspective.",
 	"message.ex_skill.unavailable_secondary": "This student does not have a secondary ex skill.",
