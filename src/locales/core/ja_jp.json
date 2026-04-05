@@ -1,4 +1,8 @@
 {
+	"action_wheel.action.toggle_on": "オン",
+	"action_wheel.action.toggle_off": "オフ",
+	"action_wheel.main_page.change_alt_costume.title": "バリエーションコスチュームに変更：",
+	"action_wheel.main_page.change_alt_costume.unavailable": "この生徒さんはバリエーションコスチュームを持っていません。",
 	"message.ex_skill.unavailable": "今は再生できません。",
 	"message.ex_skill.unavailable_firstperson": "一人称視点では再生できません。",
 	"message.ex_skill.unavailable_secondary": "この生徒さんはサブExスキルを持っていません。"

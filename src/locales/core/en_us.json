@@ -1,4 +1,11 @@
 {
+	"text_format.color_dark_gray": "§8",
+	"text_format.color_red": "§c",
+	"text_format.color_green": "§a",
+	"action_wheel.action.toggle_on": "ON",
+	"action_wheel.action.toggle_off": "OFF",
+	"action_wheel.main_page.change_alt_costume.title": "Change to Alternative Costume: ",
+	"action_wheel.main_page.change_alt_costume.unavailable": "This student does not have an alternative costume.",
 	"message.ex_skill.unavailable": "You cannot play ex skill animation now.",
 	"message.ex_skill.unavailable_firstperson": "You cannot play ex skill animation in first person perspective.",
 	"message.ex_skill.unavailable_secondary": "This student does not have a secondary ex skill."
