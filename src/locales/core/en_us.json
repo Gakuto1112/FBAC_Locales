@@ -1,9 +1,4 @@
 {
-	"text_format.reset": "§r",
-	"text_format.color_dark_gray": "§8",
-	"text_format.color_green": "§a",
-	"text_format.color_aqua": "§b",
-	"text_format.color_red": "§c",
 	"action_wheel.action.toggle_on": "ON",
 	"action_wheel.action.toggle_off": "OFF",
 	"action_wheel.main_page.change_alt_costume.title": "Change to Alternative Costume: ",
@@ -15,7 +10,7 @@
 	"message.ex_skill.unavailable_firstperson": "You cannot play ex skill animation in first person perspective.",
 	"message.ex_skill.unavailable_secondary": "This student does not have a secondary ex skill.",
 	"message.action_wheel.change_alt_costume.unavailable": "This student does not have an alternative costume.",
-	"message.action_wheel.change_display_name.done": "Changed your display name to %s%s%s.",
+	"message.action_wheel.change_display_name.done": "Changed your display name to §b%s§r.",
 	"message.action_wheel.change_display_name.club_name_on": "Displaying club name.",
 	"message.action_wheel.change_display_name.club_name_off": "Not displaying club name."
 }

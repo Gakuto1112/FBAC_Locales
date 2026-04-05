@@ -10,7 +10,7 @@
 	"message.ex_skill.unavailable_firstperson": "一人称視点では再生できません。",
 	"message.ex_skill.unavailable_secondary": "この生徒さんはサブExスキルを持っていません。",
 	"message.action_wheel.change_alt_costume.unavailable": "この生徒さんはバリエーションコスチュームを持っていません。",
-	"message.action_wheel.change_display_name.done": "表示名を%s%s%sに変更しました。",
+	"message.action_wheel.change_display_name.done": "表示名を§b%s§rに変更しました。",
 	"message.action_wheel.change_display_name.club_name_on": "部活名を表示しました。",
 	"message.action_wheel.change_display_name.club_name_off": "部活名を非表示にしました。"
 }
