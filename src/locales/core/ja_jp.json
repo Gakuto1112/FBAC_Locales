@@ -10,6 +10,8 @@
 	"action_wheel.config_page.halo_force_render_mode.title": "ヘイロー強制描画モード：",
 	"action_wheel.config_page.fpm_mode.title": "FPM互換モード：",
 	"action_wheel.config_page.locale_cache_reset.title": "言語データのキャッシュリセット",
+	"action_wheel.config_page.update_check.title_1": "FBACアップデートの確認（§b左クリック§r）",
+	"action_wheel.config_page.update_check.title_2": "最新FBACバージョンのURLをコピー（§b右クリック§r）",
 	"action_wheel.gui.bubble_guide.title": "§0吹き出しエモートガイド",
 	"action_wheel.gui.ex_skill_guide.title": "§0Exスキルガイド",
 	"action_wheel.gui.ex_skill_guide.key": "\"%s\"キーで再生",
@@ -29,5 +31,9 @@
 	"message.action_wheel.change_display_name.club_name_on": "部活名を表示しました。",
 	"message.action_wheel.change_display_name.club_name_off": "部活名を非表示にしました。",
 	"message.action_wheel_config.custom_vehicle_replacement.unavailable": "この生徒さんは独自の乗り物を持っていません。",
-	"message.action_wheel_config.fpm_mode.warning": "First-person Model互換モードを有効にすると一部環境下で頭が描画されない場合があります。"
+	"message.action_wheel_config.fpm_mode.warning": "First-person Model互換モードを有効にすると一部環境下で頭が描画されない場合があります。",
+	"message.action_wheel_config.update_check.no_permission": "アップデート確認機能を有効にするにはFiguraの設定より、FiguraのNetworkingの使用を許可し、\"%s\"を許可リストに入れる必要があります！",
+	"message.action_wheel_config.update_check.ongoing": "現在アップデートの確認中です。連打しないでください！",
+	"message.action_wheel_config.update_check.copy_to_clipboard": "最新のFBACへのリンクをクリップボードにコピーしました。ブラウザでリンクを開いてください。",
+	"message.action_wheel_config.update_check.error_cache_expired": "FBACの最新バージョンを確認できないため、リンクを取得できません。"
 }
