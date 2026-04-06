@@ -9,6 +9,7 @@
 	"action_wheel.config_page.custom_vehicle_replacement.title": "乗り物モデルの置換：",
 	"action_wheel.config_page.halo_force_render_mode.title": "ヘイロー強制描画モード：",
 	"action_wheel.config_page.fpm_mode.title": "FPM互換モード：",
+	"action_wheel.config_page.locale_cache_reset.title": "言語データのキャッシュリセット",
 	"action_wheel.gui.bubble_guide.title": "§0吹き出しエモートガイド",
 	"action_wheel.gui.ex_skill_guide.title": "§0Exスキルガイド",
 	"action_wheel.gui.ex_skill_guide.key": "\"%s\"キーで再生",

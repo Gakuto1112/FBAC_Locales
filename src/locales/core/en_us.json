@@ -9,6 +9,7 @@
 	"action_wheel.config_page.custom_vehicle_replacement.title": "Vehicle Model Replacement: ",
 	"action_wheel.config_page.halo_force_render_mode.title": "Halo Force Render Mode: ",
 	"action_wheel.config_page.fpm_mode.title": "FPM Compatibility Mode: ",
+	"action_wheel.config_page.locale_cache_reset.title": "Reset Locale Cache Data",
 	"action_wheel.gui.bubble_guide.title": "§0Bubble emote guide",
 	"action_wheel.gui.ex_skill_guide.title": "§0Ex skill guide",
 	"action_wheel.gui.ex_skill_guide.key": "Press \"%s\" key to play",
