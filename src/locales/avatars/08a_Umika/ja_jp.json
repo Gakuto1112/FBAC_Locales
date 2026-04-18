@@ -1,0 +1,10 @@
+{
+	"character.first_name": "ウミカ",
+	"character.last_name": "里浜",
+	"character.club_name": "お祭り運営委員会",
+	"ex_skill.primary_name": "お祭り開始です！",
+	"key_manager.key.firework_launch": "た～まや～！です！",
+	"message.firework.in_cool_down": "あと%d秒待ってください。",
+	"message.firework.tip_1": "§9§l[TIP]§r %sキーを長押しすると花火台を全て片付けます！",
+	"message.firework.tip_2": "§9§l[TIP]§r %sキーを押すと\"たまや～\"ができます！"
+}
