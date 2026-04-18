@@ -1,0 +1,9 @@
+{
+	"character.first_name": "Iroha",
+	"character.last_name": "Natsume",
+	"character.club_name": "Pandemonium Society",
+	"ex_skill.primary_name": "Let's go, Toramaru",
+	"key_manager.key.tank_shoot": "Main gun aim, fire",
+	"message.tank_shot.in_cool_down": "Please wait %d more seconds to shoot a shell.",
+	"message.tank_shot.tip_1": "§9§l[TIP]§r Press %s key to shoot a shell!"
+}
