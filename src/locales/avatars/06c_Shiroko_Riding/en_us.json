@@ -1,0 +1,9 @@
+{
+	"character.first_name": "Shiroko",
+	"character.last_name": "Sunaookami",
+	"character.club_name": "Countermeasure Council",
+	"ex_skill.primary_name": "Ride & Grenade",
+	"key_manager.key.missile_launch": "Launch Missile",
+	"message.drone.in_cool_down": "Please wait %d more seconds to launch missiles.",
+	"message.drone.tip": "§9§l[TIP]§r Press the %s key to launch missiles!"
+}
