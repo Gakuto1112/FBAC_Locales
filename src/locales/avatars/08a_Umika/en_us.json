@@ -3,7 +3,6 @@
 	"character.last_name": "Satohama",
 	"character.club_name": "Festival Management Committee",
 	"ex_skill.primary_name": "The festival has begun!",
-	"key_manager.key.firework_launch": "Ta~ ma~ ya~!",
 	"message.firework.in_cool_down": "Please wait %d more seconds to launch fireworks.",
 	"message.firework.tip_1": "§9§l[TIP]§r Press %s key to put all firework launchers away!",
 	"message.firework.tip_2": "§9§l[TIP]§r Press %s key to launch fireworks from all firework launchers!"

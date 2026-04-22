@@ -3,7 +3,6 @@
 	"character.last_name": "砂狼",
 	"character.club_name": "対策委員会",
 	"ex_skill.primary_name": "ドローン召喚：火力支援",
-	"key_manager.key.missile_launch": "ミサイル発射",
 	"message.drone.in_cool_down": "あと%d秒待ってください。",
 	"message.drone.tip": "§9§l[TIP]§r %sキーを押すとミサイルを発射します！"
 }
