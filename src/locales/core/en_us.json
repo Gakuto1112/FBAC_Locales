@@ -24,6 +24,7 @@
 	"action_wheel.gui.update_check.error_invalid_json_syntax": "Failed to check for updates - Json parsing failure",
 	"action_wheel.gui.update_check.error_invalid_json": "Failed to check for updates - Unexpected Response",
 	"action_wheel.gui.update_check.locale_version": "Locale version: %s",
+	"message.compatibility_utils.old_version_warning": "For the best experience, playing with %s or higher is recommended!",
 	"message.ex_skill.unavailable": "You cannot play ex skill animation now.",
 	"message.ex_skill.unavailable_firstperson": "You cannot play ex skill animation in first person perspective.",
 	"message.ex_skill.unavailable_secondary": "This student does not have a secondary ex skill.",

@@ -24,6 +24,7 @@
 	"action_wheel.gui.update_check.error_invalid_json_syntax": "アップデート確認失敗 - リクエスト解析失敗",
 	"action_wheel.gui.update_check.error_invalid_json": "アップデート確認失敗 - 予期しないレスポンス",
 	"action_wheel.gui.update_check.locale_version": "言語データバージョン：%s",
+	"message.compatibility_utils.old_version_warning": "生徒さんとより良い時間を過ごすためにバージョン%s以上でのプレイをおすすめします！",
 	"message.ex_skill.unavailable": "今は再生できません。",
 	"message.ex_skill.unavailable_firstperson": "一人称視点では再生できません。",
 	"message.ex_skill.unavailable_secondary": "この生徒さんはサブExスキルを持っていません。",
