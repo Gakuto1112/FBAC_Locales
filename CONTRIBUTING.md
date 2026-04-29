@@ -1,4 +1,4 @@
-Language: 　**English**　|　[日本語](./README_jp.md)
+Language: 　**English**　|　[日本語](./CONTRIBUTING_jp.md)
 
 # How to Contribute Translations
 

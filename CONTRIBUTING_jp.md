@@ -1,4 +1,4 @@
-言語: 　[English](./README.md)　|　**日本語**
+言語: 　[English](./CONTRIBUTING.md)　|　**日本語**
 
 # 翻訳の作業方法
 
