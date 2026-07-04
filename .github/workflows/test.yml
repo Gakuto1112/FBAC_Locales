@@ -25,7 +25,7 @@ jobs:
       - name: Run tests
         run: uv run python -m xmlrunner discover -p "test_*.py" -o ./reports
         env:
-          AVATAR_TAG_NAME: ${{ startsWith(github.ref, 'refs/tags/') && github.ref_name || '' }}
+          LOCALE_TAG_NAME: ${{ startsWith(github.ref, 'refs/tags/') && github.ref_name || '' }}
         working-directory: ./tests/
       - name: Publish Test Report
         if: always()
