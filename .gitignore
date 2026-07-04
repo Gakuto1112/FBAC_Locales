@@ -1,2 +1,6 @@
 .vscode/
 .DS_Store
+tests/reports/
+
+# Python
+__pycache__
