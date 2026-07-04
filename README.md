@@ -28,7 +28,7 @@ The in-game language ID can be obtained by installing [Figura](https://modrinth.
 The value represents the display name in the game's language settings page.
 However, this value is currently unused.
 
-![Game language settings page](./readme_images/locale_settings.jpg)
+![Game language settings page](./docs/images/readme/locale_settings.jpg)
 
 ### src/core/
 
