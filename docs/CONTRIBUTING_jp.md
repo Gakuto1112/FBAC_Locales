@@ -1,4 +1,6 @@
+<!-- markdownlint-disable MD041 -->
 言語: 　[English](./CONTRIBUTING.md)　|　**日本語**
+<!-- markdownlint-enable MD041 -->
 
 # 翻訳の作業方法
 
@@ -55,7 +57,7 @@
    ```
 
 4. FBACアバターをビルドし、手順3の変更がされたアバターを作成してください。
-   FBACアバターのビルド方法は[こちら](https://github.com/Gakuto1112/FiguraBlueArchiveCrafters/blob/main/build_scripts/README_jp.md)を参照してください。
+   FBACアバターのビルド方法は[FBACビルドスクリプト](https://github.com/Gakuto1112/FiguraBlueArchiveCrafters/blob/main/build_scripts/README_jp.md)を参照してください。
 
 5. ゲーム内のFigura設定で、ローカルサーバーのドメイン（`localhost`など）をネットワークフィルターの許可リストに登録するなどし、ローカルサーバーとの通信を許可してください。
 

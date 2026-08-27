@@ -1,4 +1,6 @@
+<!-- markdownlint-disable MD041 -->
 Language: 　**English**　|　[日本語](./CONTRIBUTING_jp.md)
+<!-- markdownlint-enable MD041 -->
 
 # How to Contribute Translations
 
@@ -55,7 +57,7 @@ Note that the command examples provided are based on Mac/Linux.
    ```
 
 4. Build the FBAC avatar and create an avatar with the changes from step 3 applied.
-   For instructions on how to build the FBAC avatar, please refer to [here](https://github.com/Gakuto1112/FiguraBlueArchiveCrafters/blob/main/build_scripts/README.md).
+   For instructions on how to build the FBAC avatar, please refer to [FBAC Build](https://github.com/Gakuto1112/FiguraBlueArchiveCrafters/blob/main/build_scripts/README.md).
 
 5. In the in-game Figura settings, allow communication with the local server by, for example, registering the local server's domain (such as `localhost`) in the network filter's allowlist.
 
