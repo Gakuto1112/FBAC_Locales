@@ -25,6 +25,8 @@
 	"action_wheel.gui.update_check.error_invalid_json": "アップデート確認失敗 - 予期しないレスポンス",
 	"action_wheel.gui.update_check.locale_version": "言語データバージョン：%s",
 	"message.compatibility_utils.old_version_warning": "生徒さんとより良い時間を過ごすためにバージョン%s以上でのプレイをおすすめします！",
+	"message.net_utils.not_allowed": "§9§l[TIP]§r Figura Networking APIを使用する権限もしくはリモートにアクセスする権限がありません。Figuraの設定画面より、Figura Networking APIの使用を許可し、リモートドメイン\"§b%s§r\"をネットワークフィルターに追加してください。",
+	"message.locale.fail": "言語データの取得に失敗しました。エラーコード：§b%s",
 	"message.ex_skill.unavailable": "今は再生できません。",
 	"message.ex_skill.unavailable_firstperson": "一人称視点では再生できません。",
 	"message.ex_skill.unavailable_secondary": "この生徒さんはサブExスキルを持っていません。",
