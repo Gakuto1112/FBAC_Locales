@@ -35,7 +35,6 @@
 	"message.action_wheel_config.custom_vehicle_replacement.unavailable": "This student does not have a custom vehicle.",
 	"message.action_wheel_config.fpm_mode.warning": "When enabling First-person Model compatibility mode, the student's head may not be rendered in some environments.",
 	"message.action_wheel_config.locale_cache_reset.done": "Reloaded locale data.",
-	"message.action_wheel_config.update_check.no_permission": "To enable update checking, you need to allow Figura's Networking and put \"%s\" in the Network Filter from Figura settings!",
 	"message.action_wheel_config.update_check.ongoing": "Checking for updates is ongoing. Please DO NOT click repeatedly!",
 	"message.action_wheel_config.update_check.copy_to_clipboard": "Copied the link to the latest FBAC to your clipboard. Please open the link in your browser.",
 	"message.action_wheel_config.update_check.error_cache_expired": "Cannot get the link because cannot check the latest FBAC."
