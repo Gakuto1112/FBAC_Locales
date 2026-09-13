@@ -2,5 +2,7 @@
 	"character.first_name": "イロハ",
 	"character.last_name": "棗",
 	"character.club_name": "万魔殿",
-	"ex_skill.primary_name": "フロイラインのスーツケース"
+	"ex_skill.primary_name": "フロイラインのスーツケース",
+	"message.tank_shot.in_cool_down": "あと%d秒待ってください。",
+	"message.tank_shot.tip_1": "§9§l[TIP]§r %sキーを押すと砲弾を発射します！"
 }
