@@ -5,6 +5,8 @@ on:
     types:
       - submitted
 
+permissions: {}
+
 jobs:
   call_workflow:
     name: Call workflow
