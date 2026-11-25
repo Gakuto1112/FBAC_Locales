@@ -6,6 +6,9 @@ on:
       - opened
       - ready_for_review
 
+permissions:
+  contents: read
+
 jobs:
   call_workflow:
     name: Call workflow
