@@ -51,7 +51,7 @@
    ```lua
    local Locale = {
       ...
-      REMOTE_LOCALE_ENDPOINT = "https://localhost/";
+      REMOTE_LOCALE_ENDPOINT = "http://localhost/";
       ...
    }
    ```
