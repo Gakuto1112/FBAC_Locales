@@ -51,7 +51,7 @@ Note that the command examples provided are based on Mac/Linux.
    ```lua
    local Locale = {
       ...
-      REMOTE_LOCALE_ENDPOINT = "https://localhost/";
+      REMOTE_LOCALE_ENDPOINT = "http://localhost/";
       ...
    }
    ```
